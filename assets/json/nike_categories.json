@@ -1,0 +1,29 @@
+{
+    "nike_categories": [
+        {
+            "id": "1",
+            "name": "Men",
+            "icon_url": "assets/images/nike_categories/men.png"
+        },
+        {
+            "id": "2",
+            "name": "Women",
+            "icon_url": "assets/images/nike_categories/women.png"
+        },
+        {
+            "id": "3",
+            "name": "Kids",
+            "icon_url": "assets/images/nike_categories/kids.png"
+        },
+        {
+            "id": "4",
+            "name": "Street",
+            "icon_url": null
+        },
+        {
+            "id": "5",
+            "name": "Others",
+            "icon_url": null
+        }
+    ]
+}

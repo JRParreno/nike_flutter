@@ -1,0 +1,34 @@
+{
+    "nike_collections": [
+        {
+            "id": "1",
+            "name": "Men",
+            "description": "",
+            "image_url": "assets/images/collections/AR4997_410_M5.jpeg"
+        },
+        {
+            "id": "2",
+            "name": "Women",
+            "description": "",
+            "image_url": "assets/images/collections/FB9786_686_M5.jpeg"
+        },
+        {
+            "id": "3",
+            "name": "Kids",
+            "description": "",
+            "image_url": "assets/images/collections/FJ1083_323_M5.jpeg"
+        },
+        {
+            "id": "4",
+            "name": "Street",
+            "description": "",
+            "image_url": "assets/images/collections/FN0243_457_M5.jpeg"
+        },
+        {
+            "id": "5",
+            "name": "Others",
+            "description": "",
+            "image_url": "assets/images/collections/just-diy-it-knotted-top-toddler-t-shirt-P0TWwB.png"
+        }
+    ]
+}

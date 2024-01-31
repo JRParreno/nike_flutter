@@ -1,0 +1,34 @@
+{
+    "nike_shoes": [
+        {
+            "id": "1",
+            "name": "Airmax Nike",
+            "description": "",
+            "image_url": "assets/images/shoes/airmax-nike-shoes-07-3d-model-0ce1cb9267.jpeg"
+        },
+        {
+            "id": "2",
+            "name": "Jordan Retro 1",
+            "description": "",
+            "image_url": "assets/images/shoes/jordan_retro_1_loius.jpeg"
+        },
+        {
+            "id": "3",
+            "name": "Nike Sacai ld",
+            "description": "",
+            "image_url": "assets/images/shoes/nike_sacai_ld.jpeg"
+        },
+        {
+            "id": "4",
+            "name": "Nike Air Force 1",
+            "description": "",
+            "image_url": "assets/images/shoes/nike-air-force-1-low-3d-model-3d-model-d39e35d3c1.jpeg"
+        },
+        {
+            "id": "5",
+            "name": "Nike Air Force 2",
+            "description": "",
+            "image_url": "assets/images/shoes/nike-air-force-1-one-low-nike-3d-model-3d-model-obj-fbx-ma-stl-dae.jpeg"
+        }
+    ]
+}
